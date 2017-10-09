@@ -2,7 +2,7 @@
 using static System.Console;    // wenn ich Console ansprechen will, kann ich mir das
                                 // vorangestellte Console sparen
 
-namespace test1
+namespace HelloWorld
 {
     class Program
     {
