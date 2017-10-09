@@ -8,7 +8,7 @@ namespace test1
         static void Main()
         {
             Console.WriteLine("Hello World");
-            Console.ReadLine();     // wartet auf ein Enter
+            Console.ReadLine();     // wartet auf Enter
         }
     }
 }
